@@ -3,7 +3,7 @@ R in Production
 
 ### posit::conf(2024)
 
-by INSTRUCTOR_NAME
+by Hadley Wickham
 
 -----
 
