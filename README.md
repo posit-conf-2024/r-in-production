@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+R in Production
 ================
 
 ### posit::conf(2024)
