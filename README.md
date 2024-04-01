@@ -28,13 +28,13 @@ here.
 
 -----
 
-## Overview
+## Description
 
-ADD ABSTRACT
+ADD DESCRIPTION
 
-**This workshop is for you if you...*
+## Audience
 
-ADD THREE POINTS
+ADD AUDIENCE INFO
 
 ## Prework
 
@@ -55,9 +55,9 @@ RSTUDIO.CLOUD ACCOUNT, ETC.
 | 15:00 - 15:30 | *Coffee break*   |
 | 15:30 - 17:00 | Session 4        |
 
-## Instructor
+## Instructor(s)
 
-ADD INSTRUCTOR BIO
+ADD INSTRUCTOR(S) BIO
 
 -----
 
