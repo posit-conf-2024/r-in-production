@@ -44,7 +44,7 @@ To be successful in this course you need to be familiar with R and Git.
 ## Prework
 
 1. `install.packages("pak")`
-2. `pak::pak(c("usethis", "pointblank", "logger"))`
+2. `pak::pak(c("usethis", "pointblank", "logger", "ggforce"))`
 3. Make sure you have the latest version of quarto (1.5)
 4. Sign up for a a free GitHub account if you don't already.
 5. Sign up for a free [Posit Connect Cloud](https://connect.posit.cloud/) account.
@@ -54,7 +54,7 @@ To be successful in this course you need to be familiar with R and Git.
 
 | Time          | Activity         |
 | :------------ | :--------------- |
-| 09:00 - 10:30 | The whole game        |
+| 09:00 - 10:30 | [The whole game](materials/1-whole-game.pdf)        |
 | 10:30 - 11:00 | *Coffee break*   |
 | 11:00 - 12:30 | Running code on another server        |
 | 12:30 - 13:30 | *Lunch break*    |
