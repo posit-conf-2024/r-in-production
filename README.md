@@ -56,11 +56,11 @@ To be successful in this course you need to be familiar with R and Git.
 | :------------ | :--------------- |
 | 09:00 - 10:30 | [The whole game](materials/1-whole-game.pdf)        |
 | 10:30 - 11:00 | *Coffee break*   |
-| 11:00 - 12:30 | [Running code on another server](materials/2-another-server.pdf)        |
+| 11:00 - 12:30 | [Code is run on another machine](materials/2-another-server.pdf)        |
 | 12:30 - 13:30 | *Lunch break*    |
-| 13:30 - 15:00 | Running code repeatedly        |
+| 13:30 - 15:00 | [Code is run repeatedly](materials/3-run-repeatedly.pdf)        |
 | 15:00 - 15:30 | *Coffee break*   |
-| 15:30 - 17:00 | Sharing data and code across team        |
+| 15:30 - 17:00 | Code and data is a shared responsibility        |
 
 
 -----
