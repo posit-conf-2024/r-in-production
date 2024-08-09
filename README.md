@@ -13,7 +13,7 @@ by Hadley Wickham
 
 :spiral_calendar: August 12, 2024
 :alarm_clock:     09:00 - 17:00
-:hotel:           ROOM TBD
+:hotel:           Elwha A
 :writing_hand:    [pos.it/conf](http://pos.it/conf)
 
 -----
