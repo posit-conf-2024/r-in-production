@@ -60,7 +60,7 @@ To be successful in this course you need to be familiar with R and Git.
 | 12:30 - 13:30 | *Lunch break*    |
 | 13:30 - 15:00 | [Code is run repeatedly](materials/3-run-repeatedly.pdf)        |
 | 15:00 - 15:30 | *Coffee break*   |
-| 15:30 - 17:00 | Code (and data) is a shared responsibility        |
+| 15:30 - 17:00 | [Code (and data) is a shared responsibility](materials/4-shared-responsibility.pdf)        |
 
 
 -----
