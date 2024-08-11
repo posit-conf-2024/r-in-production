@@ -1,21 +1,8 @@
----
-format: gfm
----
-
-R in Production
-================
-
-### posit::conf(2024)
-
-by Hadley Wickham
-
------
+# R in Production
 
 :spiral_calendar: August 12, 2024
 :alarm_clock:     09:00 - 17:00
 :hotel:           Elwha A
-
------
 
 
 ## Prework
