@@ -14,7 +14,6 @@ by Hadley Wickham
 :spiral_calendar: August 12, 2024
 :alarm_clock:     09:00 - 17:00
 :hotel:           Elwha A
-:writing_hand:    [pos.it/conf](http://pos.it/conf)
 
 -----
 
@@ -45,8 +44,8 @@ To be successful in this course you need to be familiar with R and Git.
 
 1. `install.packages("pak")`
 2. `pak::pak(c("usethis", "pointblank", "logger", "nanoparquet"))`
-3. Make sure you have the latest version of quarto (1.5)
-4. Sign up for a a free GitHub account if you don't already.
+3. Make sure you have the latest version of quarto (1.5).
+4. Sign up for a free GitHub account if you don't have one already.
 5. Sign up for a free [Posit Connect Cloud](https://connect.posit.cloud/) account.
 6. Sign up for a free [NewsAPI](https://newsapi.org) account.
 
