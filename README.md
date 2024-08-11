@@ -17,6 +17,29 @@ by Hadley Wickham
 
 -----
 
+
+## Prework
+
+1. `install.packages("pak")`
+2. `pak::pak(c("usethis", "pointblank", "logger", "nanoparquet"))`
+3. Make sure you have the latest version of quarto (1.5).
+4. Sign up for a free GitHub account if you don't have one already.
+5. Sign up for a free [Posit Connect Cloud](https://connect.posit.cloud/) account.
+6. Sign up for a free [NewsAPI](https://newsapi.org) account.
+
+## Schedule
+
+| Time          | Activity         |
+| :------------ | :--------------- |
+| 09:00 - 10:30 | [The whole game](materials/1-whole-game.pdf)        |
+| 10:30 - 11:00 | *Coffee break*   |
+| 11:00 - 12:30 | [Code is run on another machine](materials/2-another-server.pdf)        |
+| 12:30 - 13:30 | *Lunch break*    |
+| 13:30 - 15:00 | [Code is run repeatedly](materials/3-run-repeatedly.pdf)        |
+| 15:00 - 15:30 | *Coffee break*   |
+| 15:30 - 17:00 | [Code (and data) is a shared responsibility](materials/4-shared-responsibility.pdf)        |
+
+
 ## Description
 
 What it means to put R in production varies tremendously from organisation to organisation.
@@ -39,27 +62,6 @@ This course is for you if you:
 -   Want to generally improve the quality of your production code.
 
 To be successful in this course you need to be familiar with R and Git.
-
-## Prework
-
-1. `install.packages("pak")`
-2. `pak::pak(c("usethis", "pointblank", "logger", "nanoparquet"))`
-3. Make sure you have the latest version of quarto (1.5).
-4. Sign up for a free GitHub account if you don't have one already.
-5. Sign up for a free [Posit Connect Cloud](https://connect.posit.cloud/) account.
-6. Sign up for a free [NewsAPI](https://newsapi.org) account.
-
-## Schedule
-
-| Time          | Activity         |
-| :------------ | :--------------- |
-| 09:00 - 10:30 | [The whole game](materials/1-whole-game.pdf)        |
-| 10:30 - 11:00 | *Coffee break*   |
-| 11:00 - 12:30 | [Code is run on another machine](materials/2-another-server.pdf)        |
-| 12:30 - 13:30 | *Lunch break*    |
-| 13:30 - 15:00 | [Code is run repeatedly](materials/3-run-repeatedly.pdf)        |
-| 15:00 - 15:30 | *Coffee break*   |
-| 15:30 - 17:00 | [Code (and data) is a shared responsibility](materials/4-shared-responsibility.pdf)        |
 
 
 -----
